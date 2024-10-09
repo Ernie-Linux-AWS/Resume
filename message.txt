@@ -1,0 +1,30 @@
+Resume of Ernest Boyd, USMC Veteran - AWS (Automation, Networking, Platform Engineering and Security), Docker, Linux, Machine Learning and Python
+
+Hello:
+
+Please examine my public GitHub repositories and the attached resume.
+
+To download a file from a repository, first click on the file
+and then click on an icon or text in the upper right area of
+the window to download the file.
+
+GitHub URL:  https://github.com/Ernie-Linux-AWS/Resume
+
+GitHub URL:  https://github.com/Ernie-Linux-AWS/AWS-Certification-Milestones
+
+GitHub URL:  https://github.com/Ernie-Linux-AWS/Pandas-JupyterLab-Notebooks
+
+GitHub URL:  https://github.com/Ernie-Linux-AWS/Python-Pytesting
+
+GitHub URL:  https://github.com/Ernie-Linux-AWS/Docker-Fedora
+
+GitHub URL:  https://github.com/Ernie-Linux-AWS/Docker-Ubuntu
+
+GitHub URL:  https://github.com/Ernie-Linux-AWS/AWS-Lambda-Layers
+
+I am thanking you in advance for your attention.
+
+Ernest Boyd
+ErnestBoyd@Gmail.Com
+408.220.4626
+
