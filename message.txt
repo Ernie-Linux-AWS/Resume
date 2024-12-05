@@ -1,0 +1,45 @@
+Resume of Ernest Boyd, USMC Veteran - Automation, Docker, Linux, Machine Learning and Python expertise in an AWS Cloud environment
+
+Hello:
+
+Please examine my public GitHub repositories, Fedora Project Discussion Forum posts and the attached resumes in docx and pdf formats.
+
+To download a file from a repository, first click on the file
+and then click on an icon or text in the upper right area of
+the window to download the file.
+
+GitHub URLs:
+
+        https://github.com/Ernie-Linux-AWS/Resume
+        https://github.com/Ernie-Linux-AWS/SageMaker-Classification-Notebooks
+        https://github.com/Ernie-Linux-AWS/SageMaker-Regression-Notebooks
+        https://github.com/Ernie-Linux-AWS/Pandas-JupyterLab-Notebooks
+        https://github.com/Ernie-Linux-AWS/Python-Pytesting
+        https://github.com/Ernie-Linux-AWS/Docker-Fedora
+        https://github.com/Ernie-Linux-AWS/Docker-Ubuntu
+        https://github.com/Ernie-Linux-AWS/AWS-Lambda-Layers
+        ttps://github.com/Ernie-Linux-AWS/AWS-Certification-Milestones
+
+Fedora Project - Discussion Forum – Contributing Posts:
+
+        Multiple UEFI ESP partitions, Linux Distros and bootable ISOs using one USB NVMe SSD
+        https://discussion.fedoraproject.org/t/multiple-uefi-esp-partitions-linux-distros-and-bootable-isos-using-one-usb-nvme-ssd/135852
+
+        Change bash prompt to GREEN, display Fedora info and CWD
+        https://discussion.fedoraproject.org/t/change-bash-prompt-to-green-display-fedora-info-and-cwd/135928
+
+        Fedora 41 grubenv explained 
+        https://discussion.fedoraproject.org/t/fedora-41-grubenv-explained/139066
+
+        Install Fedora 41 as a Portable Workstation
+        https://discussion.fedoraproject.org/t/install-fedora-41-as-a-portable-workstation/138427
+
+        Migrate a Fedora 41 Portable Workstation
+        https://discussion.fedoraproject.org/t/migrate-a-fedora-41-portable-workstation/138441
+
+I am thanking you in advance for your attention.
+
+Ernest Boyd
+ErnestBoyd@Gmail.Com
+408.220.4626
+
